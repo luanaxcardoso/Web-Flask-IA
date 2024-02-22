@@ -1,5 +1,13 @@
 ## Bootcamp Python & Django - WoMakers Code
 
+# Tradutor de Palavras:
+* Inglês
+* Italiano
+* Japonês
+* Russo
+* Alemão
+##
+
 ## Desafio: "Criar um aplicativo Web de IA usando Python e Flask" ✔️
 
 
@@ -8,4 +16,4 @@
 
 ## Pré-requisito:
   
-* Uma conta do Azure para obter chave de autenticação
+* Uma conta do Azure para obter a chave de autenticação
