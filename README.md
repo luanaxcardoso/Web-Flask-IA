@@ -17,3 +17,7 @@
 ## Pré-requisito:
   
 * Uma conta do Azure para obter a chave de autenticação
+
+
+https://github.com/luanaxcardoso/Web-Flask-IA/assets/112970416/e2e5aa0f-05ea-4cc1-896b-d10b9a14f540
+
