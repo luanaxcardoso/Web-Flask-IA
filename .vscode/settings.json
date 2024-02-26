@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/65553b10-2729-4ae2-a401-0287dac8e392/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/webiatradutor",
+  "appService.deploySubpath": "."
+}
