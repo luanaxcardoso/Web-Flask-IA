@@ -1,8 +1,8 @@
 ## Bootcamp Python & Django - WoMakers Code
 
-# Tradutor de Palavras:
+### Tradutor de Palavras:
 
-https://web-app-tradutor.azurewebsites.net/
+### Traduza aqui: https://web-app-tradutor.azurewebsites.net/
 
 * Inglês
 * Italiano
