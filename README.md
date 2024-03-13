@@ -2,8 +2,6 @@
 
 ### Tradutor de Palavras:
 
-### Traduza aqui: https://web-app-tradutor.azurewebsites.net/
-
 * Inglês
 * Italiano
 * Japonês
